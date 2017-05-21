@@ -1,3 +1,7 @@
+package test.java;
+
+
+import main.java.Lab2;
 import org.junit.Before;
 import org.junit.Test;
 
