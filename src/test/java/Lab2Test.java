@@ -4,9 +4,11 @@ package test.java;
 import main.java.Lab2;
 import org.junit.Before;
 import org.junit.Test;
+import org.junit.Assert.*;
+import org.junit.Assert;
 
-import static jdk.nashorn.internal.objects.Global.Infinity;
-import static org.junit.Assert.*;
+import static junit.framework.TestCase.assertEquals;
+
 
 /**
  * Created by Ko4evnik on 21.05.2017.
